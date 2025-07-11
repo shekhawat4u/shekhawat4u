@@ -1,7 +1,7 @@
-# 🚀 Shekhawat4u | Full-Stack Developer & AI Enthusiast
+# Harshvardhan Singh Shekhawat | Full-Stack Developer & AI Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe!;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ```javascript
 const shekhawat4u = {
-    name: "Shekhawat",
+    name: "Harshvardhan Singh Shekhawat",
     location: "Pilani, India 🇮🇳",
     company: "Code Caffeine",
     website: "https://codecaffeine.in",
@@ -173,14 +173,6 @@ graph TD
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26yvlaogbhqm5gkzlt5i4b77u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -219,24 +211,13 @@ print(daily_routine())
 
 ---
 
-## 🎯 2024 Goals
-
-- [ ] 🚀 Launch 5 major open-source projects
-- [ ] 📚 Complete advanced AI/ML certifications
-- [ ] 🌟 Reach 1K GitHub followers
-- [ ] 🎥 Create 100+ educational videos
-- [ ] 🏆 Win a major hackathon
-- [ ] 🌐 Contribute to 10+ open-source projects
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontAlign=70&fontAlignY=40&fontColor=ffffff" alt="Footer" />
 </div>
 
 <div align="center">
   
-  **💖 Made with passion by [Shekhawat4u](https://github.com/shekhawat4u)**
+  **Made with passion by [Shekhawat4u](https://github.com/shekhawat4u)**
   
   *"Code is poetry written in logic"*
   
