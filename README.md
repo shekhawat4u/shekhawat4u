@@ -315,45 +315,8 @@ console.log("Living the dev life! 🚀");
 </td>
 </tr>
 </table>
-
-### 🎯 Current Obsessions
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20Machine%20Learning-blue?style=for-the-badge&logo=brain&logoColor=white" alt="Currently Learning" />
-  <img src="https://img.shields.io/badge/Coding%20Playlist-Lo--Fi%20Hip%20Hop-purple?style=for-the-badge&logo=spotify&logoColor=white" alt="Coding Playlist" />
-  <img src="https://img.shields.io/badge/IDE%20Theme-Tokyo%20Night-red?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="IDE Theme" />
 </div>
 
-### 🏆 Random Achievements
-
-| 🎯 Achievement | 📊 Level | 🎉 Status |
-|:---:|:---:|:---:|
-| 🐛 **Bug Whisperer** | Master | Debugging without Google |
-| ☕ **Coffee Connoisseur** | Expert | 127 cups this month |
-| 🌙 **Night Owl Coder** | Legendary | 3 AM commits are my specialty |
-| 🚀 **Deploy Master** | Pro | Zero-downtime deployments |
-| 📚 **Documentation Lover** | Rare | Actually reads the docs first |
-| 🎨 **Pixel Perfect** | Skilled | CSS animations that don't break |
-
-### 🎪 Fun Code Snippets
-
-```python
-# My approach to problems
-def solve_problem(problem):
-    solutions = []
-    while not solutions:
-        solutions = think_outside_the_box(problem)
-        if not solutions:
-            grab_coffee()
-            listen_to_music()
-    return implement_elegant_solution(solutions[0])
-
-# Life philosophy
-def life_as_developer():
-    return "Every bug is a feature waiting to be discovered! 🐛➡️✨"
-```
-
-</div>
 
 ---
 
